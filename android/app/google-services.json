@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74522177576",
+    "firebase_url": "https://geetaxi-47a21-default-rtdb.firebaseio.com",
+    "project_id": "geetaxi-47a21",
+    "storage_bucket": "geetaxi-47a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74522177576:android:8d4e0bbae5575de75c851d",
+        "android_client_info": {
+          "package_name": "com.skarimt.uber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74522177576-1cb020lk7d6d9acp2599ug7hhdrkprmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLAu4hXN__HQ1Sl2sAZKqHS2v8N9TYGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74522177576-1cb020lk7d6d9acp2599ug7hhdrkprmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
