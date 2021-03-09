@@ -36,6 +36,8 @@ class _MainPageState extends State<MainPage> {
   double mapBottomPadding = 0;
   List<LatLng> polylineCoordinates = [];
   Set<Polyline> _polylines = {};
+  Set<Marker> _Markers = {};
+  Set<Circle> _Circles = {};
   var geoLocator = Geolocator();
   Position currentPosition;
 
@@ -170,6 +172,8 @@ class _MainPageState extends State<MainPage> {
             zoomControlsEnabled: true,
             mapType: MapType.normal,
             polylines: _polylines,
+            markers: _Markers,
+            circles: _Circles,
             initialCameraPosition: _kGooglePlex,
             onMapCreated: (GoogleMapController controller) {
               _controller.complete(controller);

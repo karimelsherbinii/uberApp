@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>169450788828-djkmdaq2voe24hghj5nc05sv5upikbfu.apps.googleusercontent.com</string>
+	<string>74522177576-gokefo4c8281snu86ceg3v22o1mp790u.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.169450788828-djkmdaq2voe24hghj5nc05sv5upikbfu</string>
+	<string>com.googleusercontent.apps.74522177576-gokefo4c8281snu86ceg3v22o1mp790u</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCGDOgE33dc-6UHtIAptXSAVZRogFvV8Hs</string>
+	<string>AIzaSyBYLAu4hXN__HQ1Sl2sAZKqHS2v8N9TYGM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>169450788828</string>
+	<string>74522177576</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ufinix.cabRider</string>
+	<string>com.skarimt.uberApp</string>
 	<key>PROJECT_ID</key>
-	<string>geetaxi-9c60a</string>
+	<string>geetaxi-47a21</string>
 	<key>STORAGE_BUCKET</key>
-	<string>geetaxi-9c60a.appspot.com</string>
+	<string>geetaxi-47a21.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:169450788828:ios:94b60468db3510b6f9a119</string>
+	<string>1:74522177576:ios:a838855ee93d2d5b5c851d</string>
 	<key>DATABASE_URL</key>
-	<string>https://geetaxi-9c60a.firebaseio.com</string>
+	<string>https://geetaxi-47a21-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
